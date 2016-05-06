@@ -14,5 +14,7 @@ save as python and delete the `matplotlib inline`
 
 
 # push to git
+```
 git commit . -m'WHAT I CHANGED'
 git push
+```
